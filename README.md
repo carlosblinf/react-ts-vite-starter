@@ -13,6 +13,7 @@ Developer experience first:
 - 🔥 Type checking [TypeScript](https://www.typescriptlang.org)
 - 💎 Integrate with [Tailwind CSS](https://tailwindcss.com)
 - ✨ Integrate with [Styled Components](https://styled-components.com)
+- ✨ Integrate [Twin Macro](https://github.com/ben-rogerson/twin.macro) for flexibility Tailwind with css-in-js
 - ✅ Strict Mode for TypeScript and React 18
 - 📏 Linter with [ESLint](https://eslint.org) (default NextJS, NextJS Core Web Vitals, Tailwind CSS and Airbnb configuration)
 - 💖 Code Formatter with [Prettier](https://prettier.io)
